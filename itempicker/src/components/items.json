@@ -1,0 +1,834 @@
+[
+    {
+        "id": "oak_boat",
+        "name": "Oak Boat",
+        "meta": 0,
+        "tags": "boat",
+        "icon": "Oak_Boat_JE4_BE2.png",
+        "key": "item.minecraft.oak_boat"
+    },
+    {
+        "id": "spruce_boat",
+        "name": "Spruce Boat",
+        "meta": 0,
+        "tags": "boat",
+        "icon": "Spruce_Boat_JE3_BE2.png",
+        "key": "item.minecraft.spruce_boat"
+    },
+    {
+        "id": "birch_boat",
+        "name": "Birch Boat",
+        "meta": 0,
+        "tags": "boat",
+        "icon": "Birch_Boat_JE3_BE2.png",
+        "key": "item.minecraft.birch_boat"
+    },
+    {
+        "id": "jungle_boat",
+        "name": "Jungle Boat",
+        "meta": 0,
+        "tags": "boat",
+        "icon": "Jungle_Boat_JE3_BE2.png",
+        "key": "item.minecraft.jungle_boat"
+    },
+    {
+        "id": "acacia_boat",
+        "name": "Acacia Boat",
+        "meta": 0,
+        "tags": "boat",
+        "icon": "Acacia_Boat_JE3_BE2.png",
+        "key": "item.minecraft.acacia_boat"
+    },
+    {
+        "id": "dark_oak_boat",
+        "name": "Dark Oak Boat",
+        "meta": 0,
+        "tags": "boat",
+        "icon": "Dark_Oak_Boat_JE3_BE2.png",
+        "key": "item.minecraft.dark_oak_boat"
+    },
+    {
+        "id": "mangrove_boat",
+        "name": "Mangrove Boat",
+        "meta": 0,
+        "tags": "boat",
+        "icon": "Mangrove_Boat_JE1_BE1.png",
+        "key": "item.minecraft.mangrove_boat"
+    },
+    {
+        "id": "oak_button",
+        "name": "Oak button",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Oak_Button_29_JE4.png",
+        "key": "block.minecraft.oak_button"
+    },
+    {
+        "id": "daylight_detector",
+        "name": "Daylight Detector",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Daylight_Detector_JE1_BE1.png",
+        "key": "block.minecraft.daylight_detector"
+    },
+    {
+        "id": "detector_rail",
+        "name": "Detector Rail",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Detector_Rail_29_JE2_BE2.png",
+        "key": "block.minecraft.detector_rail"
+    },
+    {
+        "id": "lever",
+        "name": "Lever",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Wall_Lever_29_JE5_BE2.png",
+        "key": "block.minecraft.lever"
+    },
+    {
+        "id": "observer",
+        "name": "Observer",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Observer_JE4_BE3.png",
+        "key": "block.minecraft.observer"
+    },
+    {
+        "id": "oak_pressure_plate",
+        "name": "Oak Pressure Plate",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Oak_Pressure_Plate_JE5_BE2.png",
+        "key": "block.minecraft.oak_pressure_plate"
+    },
+    {
+        "id": "redstone_torch",
+        "name": "Redstone Torch",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Redstone_Torch_JE4.png",
+        "key": "block.minecraft.redstone_torch"
+    },
+    {
+        "id": "tripwire_hook",
+        "name": "Tripwire Hook",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Powered_Tripwire_Hook_29_JE6.png",
+        "key": "block.minecraft.tripwire_hook"
+    },
+    {
+        "id": "redstone_dust",
+        "name": "Redstone Dust",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Inactive_Redstone_Wire_29_JE4.png",
+        "key": "block.minecraft.redstone_wire"
+    },
+    {
+        "id": "redstone_repeater",
+        "name": "Redstone Repeater",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Redstone_Repeater_29_JE5_BE2.png",
+        "key": "block.minecraft.repeater"
+    },
+    {
+        "id": "redstone_comparator",
+        "name": "Redstone Comparator",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Redstone_Comparator_29_JE4.png",
+        "key": "block.minecraft.comparator"
+    },
+    {
+        "id": "activator_rail",
+        "name": "Activator Rail",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Activator_Rail_29_JE2_BE2.png",
+        "key": "block.minecraft.activator_rail"
+    },
+    {
+        "id": "bell",
+        "name": "Bell",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Bell_29.png",
+        "key": "block.minecraft.bell"
+    },
+    {
+        "id": "dispenser",
+        "name": "Dispenser",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Dispenser_29_JE4.png",
+        "key": "block.minecraft.dispenser"
+    },
+    {
+        "id": "oak_door",
+        "name": "Oak Door",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Oak_Door_JE8.png",
+        "key": "block.minecraft.oak_door"
+    },
+    {
+        "id": "dropper",
+        "name": "Dropper",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Dropper_29_JE3.png",
+        "key": "block.minecraft.dropper"
+    },
+    {
+        "id": "hopper",
+        "name": "Hopper",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Hopper_29_JE8.png",
+        "key": "block.minecraft.hopper"
+    },
+    {
+        "id": "powered_rail",
+        "name": "Powered Rail",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Powered_Rail_29_JE2_BE2.png",
+        "key": "block.minecraft.powered_rail"
+    },
+    {
+        "id": "rail",
+        "name": "Rail",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Rail_29_JE3_BE2.png",
+        "key": "block.minecraft.rail"
+    },
+    {
+        "id": "tnt",
+        "name": "TNT",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "TNT_JE3_BE2.png",
+        "key": "block.minecraft.tnt"
+    },
+    {
+        "id": "minecart",
+        "name": "Minecart",
+        "meta": 0,
+        "tags": "redstone",
+        "icon": "Minecart_JE3_BE2.png",
+        "key": "item.minecraft.minecart"
+    },
+    {
+        "id": "andesite",
+        "name": "Andesite",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Andesite.png",
+        "key": "block.minecraft.andesite"
+    },
+    {
+        "id": "bricks",
+        "name": "Bricks",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Bricks_JE5_BE3.png",
+        "key": "block.minecraft.bricks"
+    },
+    {
+        "id": "clay",
+        "name": "Clay",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Clay_JE2_BE2.png",
+        "key": "block.minecraft.clay"
+    },
+    {
+        "id": "cobbled_deepslate",
+        "name": "Cobbled Deepslate",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Cobbled_Deepslate.png",
+        "key": "block.minecraft.cobbled_deepslate"
+    },
+    {
+        "id": "deepslate",
+        "name": "Deepslate",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Deepslate.png",
+        "key": "block.minecraft.deepslate"
+    },
+    {
+        "id": "deepslate_bricks",
+        "name": "Deepslate Bricks",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Deepslate_Bricks_JE2_BE1.png",
+        "key": "block.minecraft.deepslate_bricks"
+    },
+    {
+        "id": "deepslate_tiles",
+        "name": "Deepslate Tiles",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Deepslate_Tiles_JE2_BE1.png",
+        "key": "block.minecraft.deepslate_tiles"
+    },
+    {
+        "id": "diorite",
+        "name": "Diorite",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Diorite.png",
+        "key": "block.minecraft.diorite"
+    },
+    {
+        "id": "dirt",
+        "name": "Dirt",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Dirt.png",
+        "key": "block.minecraft.dirt"
+    },
+    {
+        "id": "dirt_path",
+        "name": "Dirt Path",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Dirt_Path_JE4_BE3.png",
+        "key": "block.minecraft.dirt_path"
+    },
+    {
+        "id": "grass_block",
+        "name": "Grass Block",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Grass_Block_JE7_BE6.png",
+        "key": "block.minecraft.grass_block"
+    },
+    {
+        "id": "granite",
+        "name": "Granite",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Granite.png",
+        "key": "block.minecraft.granite"
+    },
+    {
+        "id": "hay_block",
+        "name": "Hay Block",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Hay_Bale_29_JE2_BE2.png",
+        "key": "block.minecraft.hay_block"
+    },
+    {
+        "id": "magma_block",
+        "name": "Magma Block",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Magma_Block_JE2_BE2.png",
+        "key": "block.minecraft.magma_block"
+    },
+    {
+        "id": "nether_bricks",
+        "name": "Nether Bricks",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Nether_Bricks_JE3_BE4.png",
+        "key": "block.minecraft.nether_bricks"
+    },
+    {
+        "id": "prismarine_bricks",
+        "name": "Prismarine Bricks",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Prismarine_Bricks_JE2_BE2.png",
+        "key": "block.minecraft.prismarine_bricks"
+    },
+    {
+        "id": "prismarine",
+        "name": "Prismarine",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Prismarine_JE2_BE2.png",
+        "key": "block.minecraft.prismarine"
+    },
+    {
+        "id": "sand",
+        "name": "Sand",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Sand_JE5_BE3.png",
+        "key": "block.minecraft.sand"
+    },
+    {
+        "id": "sandstone",
+        "name": "Sandstone",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Sandstone_JE6_BE3.png",
+        "key": "block.minecraft.sandstone"
+    },
+    {
+        "id": "stick",
+        "name": "Stick",
+        "meta": 0,
+        "tags": "blocks",
+        "icon": "Stick_JE1_BE1.png",
+        "key": "block.minecraft.stick"
+    },
+    {
+        "id": "glass",
+        "name": "Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Glass_JE4_BE2.png",
+        "key": "block.minecraft.glass"
+    },
+    {
+        "id": "glass_pane",
+        "name": "Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Glass_Pane_JE4_BE4.png",
+        "key": "block.minecraft.glass_pane"
+    },
+    {
+        "id": "tinted_glass",
+        "name": "Tinted Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Tinted_Glass_JE2_BE1.png",
+        "key": "block.minecraft.tinted_glass"
+    },
+    {
+        "id": "black_stained_glass",
+        "name": "Black Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Black_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.black_stained_glass"
+    },
+    {
+        "id": "black_stained_glass_pane",
+        "name": "Black Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Black_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.black_stained_glass_pane"
+    },
+    {
+        "id": "blue_stained_glass",
+        "name": "Blue Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Blue_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.blue_stained_glass"
+    },
+    {
+        "id": "blue_stained_glass_pane",
+        "name": "Blue Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Blue_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.blue_stained_glass_pane"
+    },
+    {
+        "id": "brown_stained_glass",
+        "name": "Brown Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Brown_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.brown_stained_glass"
+    },
+    {
+        "id": "brown_stained_glass_pane",
+        "name": "Brown Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Brown_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.brown_stained_glass_pane"
+    },
+    {
+        "id": "cyan_stained_glass",
+        "name": "Cyan Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Cyan_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.cyan_stained_glass"
+    },
+    {
+        "id": "cyan_stained_glass_pane",
+        "name": "Cyan Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Cyan_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.cyan_stained_glass_pane"
+    },
+    {
+        "id": "gray_stained_glass",
+        "name": "Gray Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Gray_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.gray_stained_glass"
+    },
+    {
+        "id": "gray_stained_glass_pane",
+        "name": "Gray Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Gray_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.gray_stained_glass_pane"
+    },
+    {
+        "id": "green_stained_glass",
+        "name": "Green Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Green_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.green_stained_glass"
+    },
+    {
+        "id": "green_stained_glass_pane",
+        "name": "Green Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Green_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.green_stained_glass_pane"
+    },
+    {
+        "id": "light_blue_stained_glass",
+        "name": "Light Blue Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Light_Blue_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.light_blue_stained_glass"
+    },
+    {
+        "id": "light_blue_stained_glass_pane",
+        "name": "Light Blue Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Light_Blue_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.light_blue_stained_glass_pane"
+    },
+    {
+        "id": "light_gray_stained_glass",
+        "name": "Light Gray Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Light_Gray_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.light_gray_stained_glass"
+    },
+    {
+        "id": "light_gray_stained_glass_pane",
+        "name": "Light Gray Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Light_Gray_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.light_gray_stained_glass_pane"
+    },
+    {
+        "id": "lime_stained_glass",
+        "name": "Lime Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Lime_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.lime_stained_glass"
+    },
+    {
+        "id": "lime_stained_glass_pane",
+        "name": "Lime Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Lime_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.lime_stained_glass_pane"
+    },
+    {
+        "id": "magenta_stained_glass",
+        "name": "Magenta Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Magenta_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.magenta_stained_glass"
+    },
+    {
+        "id": "magenta_stained_glass_pane",
+        "name": "Magenta Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Magenta_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.magenta_stained_glass_pane"
+    },
+    {
+        "id": "orange_stained_glass",
+        "name": "Orange Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Orange_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.orange_stained_glass"
+    },
+    {
+        "id": "orange_stained_glass_pane",
+        "name": "Orange Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Orange_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.orange_stained_glass_pane"
+    },
+    {
+        "id": "pink_stained_glass",
+        "name": "Pink Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Pink_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.pink_stained_glass"
+    },
+    {
+        "id": "pink_stained_glass_pane",
+        "name": "Pink Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Pink_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.pink_stained_glass_pane"
+    },
+    {
+        "id": "purple_stained_glass",
+        "name": "Purple Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Purple_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.purple_stained_glass"
+    },
+    {
+        "id": "purple_stained_glass_pane",
+        "name": "Purple Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Purple_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.purple_stained_glass_pane"
+    },
+    {
+        "id": "red_stained_glass",
+        "name": "Red Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Red_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.red_stained_glass"
+    },
+    {
+        "id": "red_stained_glass_pane",
+        "name": "Red Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Red_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.red_stained_glass_pane"
+    },
+    {
+        "id": "white_stained_glass",
+        "name": "White Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "White_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.white_stained_glass"
+    },
+    {
+        "id": "white_stained_glass_pane",
+        "name": "White Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "White_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.white_stained_glass_pane"
+    },
+    {
+        "id": "yellow_stained_glass",
+        "name": "Yellow Stained Glass",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Yellow_Stained_Glass_JE3_BE3.png",
+        "key": "block.minecraft.yellow_stained_glass"
+    },
+    {
+        "id": "yellow_stained_glass_pane",
+        "name": "Yellow Stained Glass Pane",
+        "meta": 0,
+        "tags": "glass",
+        "icon": "Yellow_Stained_Glass_Pane_JE3_BE2.png",
+        "key": "block.minecraft.yellow_stained_glass_pane"
+    },
+    {
+        "id": "acacia_log",
+        "name": "Acacia Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Acacia_Log.png",
+        "key": "block.minecraft.acacia_log"
+    },
+    {
+        "id": "stripped_acacia_log",
+        "name": "Stripped Acacia Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Stripped_Acacia_Log_29_JE2_BE2.png",
+        "key": "block.minecraft.stripped_acacia_log"
+    },
+    {
+        "id": "birch_log",
+        "name": "Birch Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Birch_Log_29_JE5_BE3.png",
+        "key": "block.minecraft.birch_log"
+    },
+    {
+        "id": "stripped_birch_log",
+        "name": "Stripped Birch Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Stripped_Birch_Log_29_JE2_BE2.png",
+        "key": "block.minecraft.stripped_birch_log"
+    },
+    {
+        "id": "dark_oak_log",
+        "name": "Dark Oak Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Dark_Oak_Log_29_JE6.png",
+        "key": "block.minecraft.dark_oak_log"
+    },
+    {
+        "id": "stripped_dark_oak_log",
+        "name": "Stripped Dark Oak Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Stripped_Dark_Oak_Log_29_JE4.png",
+        "key": "block.minecraft.stripped_dark_oak_log"
+    },
+    {
+        "id": "jungle_log",
+        "name": "Jungle Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Jungle_Log_29_JE6_BE3.png",
+        "key": "block.minecraft.jungle_log"
+    },
+    {
+        "id": "stripped_jungle_log",
+        "name": "Stripped Jungle Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Stripped_Jungle_Log_29_JE4_BE3.png",
+        "key": "block.minecraft.stripped_jungle_log"
+    },
+    {
+        "id": "mangrove_log",
+        "name": "Mangrove Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Mangrove_Log_29_JE1_BE1.png",
+        "key": "block.minecraft.mangrove_log"
+    },
+    {
+        "id": "stripped_mangrove_log",
+        "name": "Stripped Mangrove Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Stripped_Mangrove_Log_29_JE1_BE1.png",
+        "key": "block.minecraft.stripped_mangrove_log"
+    },
+    {
+        "id": "oak_log",
+        "name": "Oak Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Oak_Log_29_JE5_BE3.png",
+        "key": "block.minecraft.oak_log"
+    },
+    {
+        "id": "stripped_oak_log",
+        "name": "Stripped Oak Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Stripped_Oak_Log_29_JE2_BE2.png",
+        "key": "block.minecraft.stripped_oak_log"
+    },
+    {
+        "id": "spruce_log",
+        "name": "Spruce Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Spruce_Log_29_JE5_BE3.png",
+        "key": "block.minecraft.spruce_log"
+    },
+    {
+        "id": "stripped_spruce_log",
+        "name": "Stripped Spruce Log",
+        "meta": 0,
+        "tags": "log",
+        "icon": "Stripped_Spruce_Log_29_JE2.png",
+        "key": "block.minecraft.stripped_spruce_log"
+    },
+    {
+        "id": "acacia_planks",
+        "name": "Acacia Planks",
+        "meta": 0,
+        "tags": "planks",
+        "icon": "Acacia_Planks.png",
+        "key": "block.minecraft.acacia_planks"
+    },
+    {
+        "id": "birch_planks",
+        "name": "Birch Planks",
+        "meta": 0,
+        "tags": "planks",
+        "icon": "Birch_Planks.png",
+        "key": "block.minecraft.birch_planks"
+    },
+    {
+        "id": "dark_oak_planks",
+        "name": "Dark Oak Planks",
+        "meta": 0,
+        "tags": "planks",
+        "icon": "Dark_Oak_Planks_JE3_BE2.png",
+        "key": "block.minecraft.dark_oak_planks"
+    },
+    {
+        "id": "oak_planks",
+        "name": "Oak Planks",
+        "meta": 0,
+        "tags": "planks",
+        "icon": "Oak_Planks.png",
+        "key": "block.minecraft.oak_planks"
+    },
+    {
+        "id": "jungle_planks",
+        "name": "Jungle Planks",
+        "meta": 0,
+        "tags": "planks",
+        "icon": "Jungle_Planks_JE3_BE2.png",
+        "key": "block.minecraft.jungle_planks"
+    },
+    {
+        "id": "mangrove_planks",
+        "name": "Mangrove Planks",
+        "meta": 0,
+        "tags": "planks",
+        "icon": "Mangrove_Planks_JE1_BE1.png",
+        "key": "block.minecraft.mangrove_planks"
+    },
+    {
+        "id": "spruce_planks",
+        "name": "Spruce Planks",
+        "meta": 0,
+        "tags": "planks",
+        "icon": "Spruce_Planks_JE4_BE2.png",
+        "key": "block.minecraft.spruce_planks"
+    }
+]
