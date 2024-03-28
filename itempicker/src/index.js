@@ -4,4 +4,4 @@ import ItemPicker from "./components/itempicker.js";
 import "./index.css";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<ItemPicker/>);
+root.render(<ItemPicker MaxCounter={6}/>);

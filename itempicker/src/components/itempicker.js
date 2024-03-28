@@ -3,9 +3,8 @@ import "./tooltiptext.css";
 //import data from './items';
  const data = require('./items.json');
 
-function ItemPicker() {
+function ItemPicker({MaxCounter=7}) {
     let Counter = 0;
-    let MaxCounter = 7;
 
     return (
         <div id="Table">
