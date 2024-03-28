@@ -1,5 +1,43 @@
 .Image {
+    border-width: 2 px;
+    border-style: solid;
+    border-top-color: rgb( 170, 164, 166 ); /*Light-grey*/
+    border-left-color: rgb( 170, 164, 166 ); /*Light-grey*/
+    border-bottom-color: rgb( 55, 53, 58 ); /*Dark-grey*/
+    border-right-color: rgb( 55, 53, 58 ); /*Dark-grey*/
     background-color:grey;
-    border-color: rgb( 170, 164, 166 ); /*Light-grey*/
- /* border-color: rgb( 55, 53, 58 ); /*Dark-grey*/
+    width: 50px;
+    height: 50px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.newline
+{
+    display: block;
+    width: Auto;
+    height: Auto;
+}
+
+.Table 
+{
+    display: inline;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 500px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    width: auto;
 }
