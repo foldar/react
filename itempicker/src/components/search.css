@@ -1,0 +1,31 @@
+.searchIcon
+{
+    cursor: pointer;
+}
+
+.search
+{
+    cursor:default;
+    background-color: gray;
+    color: white;
+    border: black solid 2px;
+    width: 100%;
+    font-size: 36px;
+    padding-top: 5px;
+    padding-left: 25px;
+    float: right;
+    box-shadow: 4px 4px 4px black inset;
+    font-family: "Minecraft";
+    caret-color: rgb(3,255,0);
+}
+
+.search:hover
+{
+    border: white solid 2px;
+}
+
+.searchContainer{
+    display: flex;
+    background-color: lightgray;
+    margin-bottom: 5px;
+}
